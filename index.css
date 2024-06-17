@@ -1,0 +1,59 @@
+*{
+    background-image: url("bgm.jpg");
+    background-size: 100%;
+}
+
+.main-1{
+    align-items: center;
+    text-align: center;
+    background-color:burlywood;
+    padding: 30px 20px;
+}
+
+.main-1 h2{
+    color: aqua;
+}
+
+input {
+    padding: 5px 100px;
+    border-color: azure;
+    color: azure;
+}
+button{
+    padding: 5px 10px;
+    border-color: aqua;
+    
+    color: azure;
+    border-radius: 5px;
+    background-color:rgb(239, 243, 246);
+}
+
+#text {
+
+    margin: 10px 200px;
+    border-color: azure;
+    background-color: aliceblue;
+}
+#text ul{
+    
+    color:rgb(16, 3, 3);
+    background:lightblue;
+    text-align:left;
+    font-size: 20px;
+    padding: 2px 0px;
+    border-radius: 5px;
+
+   
+    
+}
+
+#text ul i {
+    position: absolute;
+    right: 209px;
+    cursor: pointer;
+    color: aliceblue;
+    
+   
+   
+}
+
